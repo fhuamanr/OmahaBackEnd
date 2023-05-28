@@ -1,0 +1,14 @@
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\bin\Release\net6.0\Omaha.Infra.deps.json
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\bin\Release\net6.0\Omaha.Infra.runtimeconfig.json
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\bin\Release\net6.0\Omaha.Infra.dll
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\bin\Release\net6.0\Omaha.Infra.pdb
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\Omaha.Infra.csproj.AssemblyReference.cache
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\Omaha.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\Omaha.Infra.AssemblyInfoInputs.cache
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\Omaha.Infra.AssemblyInfo.cs
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\Omaha.Infra.csproj.CoreCompileInputs.cache
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\Omaha.Infra.dll
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\refint\Omaha.Infra.dll
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\Omaha.Infra.pdb
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\Omaha.Infra.genruntimeconfig.cache
+D:\Repositorios\Personal\2023\Omaha\Omaha.Infra\obj\Release\net6.0\ref\Omaha.Infra.dll

@@ -1,0 +1,15 @@
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\Omaha.Negocio.csproj.AssemblyReference.cache
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\Omaha.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\Omaha.Negocio.AssemblyInfoInputs.cache
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\Omaha.Negocio.AssemblyInfo.cs
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\Omaha.Negocio.csproj.CoreCompileInputs.cache
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\bin\Release\net6.0\Omaha.Negocio.deps.json
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\bin\Release\net6.0\Omaha.Negocio.dll
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\bin\Release\net6.0\Omaha.Negocio.pdb
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\bin\Release\net6.0\Omaha.Infra.dll
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\bin\Release\net6.0\Omaha.Infra.pdb
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\Omaha.Negocio.csproj.CopyComplete
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\Omaha.Negocio.dll
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\refint\Omaha.Negocio.dll
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\Omaha.Negocio.pdb
+D:\Repositorios\Personal\2023\Omaha\Omaha.Negocio\obj\Release\net6.0\ref\Omaha.Negocio.dll
